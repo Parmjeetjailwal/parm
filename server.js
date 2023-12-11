@@ -13,4 +13,4 @@ app.get('/api/v1/test', (request, response, next) => {
 
 server.listen(PORT, () => {
     console.log(`Server started at port: ${PORT}`);
-});
+}); 
